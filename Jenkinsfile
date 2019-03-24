@@ -8,7 +8,6 @@ node{
 		echo 'Running on stage #0'			
 	}
 	else {
-		build 'Declarative pipeline'
 		echo 'Running on stage #1'
 	}
     }
