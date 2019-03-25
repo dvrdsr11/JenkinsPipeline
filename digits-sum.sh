@@ -1,4 +1,3 @@
-#!/bin/bash
 gnum=123
 num=$gnum
 sum=0
