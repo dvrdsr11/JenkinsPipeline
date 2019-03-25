@@ -1,3 +1,4 @@
+#!/usr/bin/env groovy
 gnum=123
 num=$gnum
 sum=0
